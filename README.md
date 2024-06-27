@@ -1,6 +1,5 @@
 # IFU
-
-When implementing CNNs, especially in hardware accelerators like GPUs, TPUs, or dedicated neural network processors, an Instruction Fetch Unit (or its equivalent) plays a role in efficiently managing the flow of instructions and data.
+an Instruction Fetch Unit  plays a role in efficiently managing the flow of instructions and data.
 
 Key Functions of Instruction Fetch Unit in CNN Context
 Pre-fetching: To avoid stalls, the instruction fetch unit may pre-fetch instructions before they are needed, ensuring a smooth execution pipeline.
